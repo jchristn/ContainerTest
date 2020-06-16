@@ -1,0 +1,12 @@
+c:\code\misc\ContainerTest\ContainerTest\bin\Debug\netcoreapp3.1\ContainerTest.exe
+c:\code\misc\ContainerTest\ContainerTest\bin\Debug\netcoreapp3.1\ContainerTest.deps.json
+c:\code\misc\ContainerTest\ContainerTest\bin\Debug\netcoreapp3.1\ContainerTest.runtimeconfig.json
+c:\code\misc\ContainerTest\ContainerTest\bin\Debug\netcoreapp3.1\ContainerTest.runtimeconfig.dev.json
+c:\code\misc\ContainerTest\ContainerTest\bin\Debug\netcoreapp3.1\ContainerTest.dll
+c:\code\misc\ContainerTest\ContainerTest\bin\Debug\netcoreapp3.1\ContainerTest.pdb
+c:\code\misc\ContainerTest\ContainerTest\obj\Debug\netcoreapp3.1\ContainerTest.csprojAssemblyReference.cache
+c:\code\misc\ContainerTest\ContainerTest\obj\Debug\netcoreapp3.1\ContainerTest.AssemblyInfoInputs.cache
+c:\code\misc\ContainerTest\ContainerTest\obj\Debug\netcoreapp3.1\ContainerTest.AssemblyInfo.cs
+c:\code\misc\ContainerTest\ContainerTest\obj\Debug\netcoreapp3.1\ContainerTest.dll
+c:\code\misc\ContainerTest\ContainerTest\obj\Debug\netcoreapp3.1\ContainerTest.pdb
+c:\code\misc\ContainerTest\ContainerTest\obj\Debug\netcoreapp3.1\ContainerTest.genruntimeconfig.cache
