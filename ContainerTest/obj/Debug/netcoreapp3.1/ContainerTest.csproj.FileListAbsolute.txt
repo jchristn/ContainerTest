@@ -10,3 +10,4 @@ c:\code\misc\ContainerTest\ContainerTest\obj\Debug\netcoreapp3.1\ContainerTest.A
 c:\code\misc\ContainerTest\ContainerTest\obj\Debug\netcoreapp3.1\ContainerTest.dll
 c:\code\misc\ContainerTest\ContainerTest\obj\Debug\netcoreapp3.1\ContainerTest.pdb
 c:\code\misc\ContainerTest\ContainerTest\obj\Debug\netcoreapp3.1\ContainerTest.genruntimeconfig.cache
+C:\Code\Misc\ContainerTest\ContainerTest\bin\Debug\netcoreapp3.1\test.txt

@@ -8,6 +8,7 @@ RUN dotnet restore
 
 # Copy everything else and build
 COPY . ./
+RUN ls -la 
 RUN dotnet build   -f netcoreapp3.1 -c Release
 RUN dotnet publish -f netcoreapp3.1 -c Release -o out
 

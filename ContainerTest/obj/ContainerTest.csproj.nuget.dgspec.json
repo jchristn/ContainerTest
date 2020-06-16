@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\code\\misc\\ContainerTest\\ContainerTest\\ContainerTest.csproj": {}
+    "C:\\Code\\Misc\\ContainerTest\\ContainerTest\\ContainerTest.csproj": {}
   },
   "projects": {
-    "c:\\code\\misc\\ContainerTest\\ContainerTest\\ContainerTest.csproj": {
+    "C:\\Code\\Misc\\ContainerTest\\ContainerTest\\ContainerTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\code\\misc\\ContainerTest\\ContainerTest\\ContainerTest.csproj",
+        "projectUniqueName": "C:\\Code\\Misc\\ContainerTest\\ContainerTest\\ContainerTest.csproj",
         "projectName": "ContainerTest",
-        "projectPath": "c:\\code\\misc\\ContainerTest\\ContainerTest\\ContainerTest.csproj",
+        "projectPath": "C:\\Code\\Misc\\ContainerTest\\ContainerTest\\ContainerTest.csproj",
         "packagesPath": "C:\\Users\\joelc\\.nuget\\packages\\",
-        "outputPath": "c:\\code\\misc\\ContainerTest\\ContainerTest\\obj\\",
+        "outputPath": "C:\\Code\\Misc\\ContainerTest\\ContainerTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
